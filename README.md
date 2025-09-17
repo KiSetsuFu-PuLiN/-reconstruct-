@@ -10,7 +10,7 @@ Feel free to join our QQ group for discussion: **1061346601**.
 
 ---
 
-[Switch to Chinese](#chinese)
+[简体中文](#chinese)
 
 # Chinese <a name="chinese"></a>
 
@@ -24,4 +24,4 @@ Feel free to join our QQ group for discussion: **1061346601**.
 
 ---
 
-[Switch to English](#english)
+[English](#english)
