@@ -1,5 +1,3 @@
-# English
-
 This project is a **reproduction** of the work by the artist **NekoPaper** using Blender.
 
 Original work: [**"Reconstruct"**](https://www.bilibili.com/video/BV1P84y1274j/)
@@ -8,11 +6,9 @@ Please show your support for the original artist!
 Have questions about the project's implementation details?
 Feel free to join our QQ group for discussion: **1061346601**.
 
----
-
-[简体中文](#chinese)
-
-# Chinese <a name="chinese"></a>
+<details>
+<summary>简体中文</summary>
+<br>
 
 本项目是使用Blender对 **NekoPaper** 大佬作品的**临摹**与**重制**。
 
@@ -21,7 +17,4 @@ Feel free to join our QQ group for discussion: **1061346601**.
 
 对项目实现细节有疑问？
 欢迎加入 QQ 群：**1061346601**，一起交流讨论！
-
----
-
-[English](#english)
+</details>
